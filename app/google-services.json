@@ -1,41 +1,41 @@
 {
   "project_info": {
-    "project_number": "348292897435",
-    "project_id": "patientdemo-400dc",
-    "storage_bucket": "patientdemo-400dc.appspot.com"
+    "project_number": "1029127042755",
+    "project_id": "edocter-74e37",
+    "storage_bucket": "edocter-74e37.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:348292897435:android:28517c7881e08f280e843e",
+        "mobilesdk_app_id": "1:1029127042755:android:911c703f1fffe641fd1476",
         "android_client_info": {
-          "package_name": "com.example.patientdemo"
+          "package_name": "com.chanidu.edocter"
         }
       },
       "oauth_client": [
         {
-          "client_id": "348292897435-kqh4n8igge47sglfbh8hapu210o0e1hb.apps.googleusercontent.com",
+          "client_id": "1029127042755-lbdq9a0p7mhpfbqagqie7hrq4nl83j04.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.example.patientdemo",
-            "certificate_hash": "6e7a174d122dd6731aafbce01c2d6dd5e6a0a95e"
+            "package_name": "com.chanidu.edocter",
+            "certificate_hash": "d446ea263c3c0fc6c96ce954be448826706443d7"
           }
         },
         {
-          "client_id": "348292897435-nlafd948i1eq9civshhbr7odjlcie6d6.apps.googleusercontent.com",
+          "client_id": "1029127042755-j72kiiaqv0nh3dfhfp9anpkbd9s0lrt1.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCq_ZAQ3tWFdwlMzCn9G0FCnynGZWaVPGI"
+          "current_key": "AIzaSyBq3Utun10UqMvyOD359uT-bp-mAfCaURY"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "348292897435-nlafd948i1eq9civshhbr7odjlcie6d6.apps.googleusercontent.com",
+              "client_id": "1029127042755-j72kiiaqv0nh3dfhfp9anpkbd9s0lrt1.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

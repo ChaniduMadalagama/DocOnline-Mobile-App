@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.example.patientdemo">
+    package="com.chanidu.edocter">
 
     <uses-permission android:name="android.permission.INTERNET" />
 
@@ -14,33 +14,33 @@
         android:theme="@style/Theme.DocOnline"
         android:usesCleartextTraffic="true"
         tools:targetApi="m">
-        <activity android:name=".SplashScreen">
+        <activity android:name="com.chanidu.edocter.SplashScreen">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".UpdatePassword" />
-        <activity android:name=".MyAppointmentsDoctor" />
-        <activity android:name=".StartPage"/>
-        <activity android:name=".CreatePatient" />
-        <activity android:name=".VerifyOtpNewPassword" />
-        <activity android:name=".DoctorDetails" />
-        <activity android:name=".VerifyOtp" />
-        <activity android:name=".SendOtp" />
-        <activity android:name=".LoginPage" />
-        <activity android:name=".UpdateProfilePatient" />
-        <activity android:name=".ReSchedule" />
-        <activity android:name=".ActiveAppointments" />
-        <activity android:name=".Payment" />
-        <activity android:name=".BookAppointment" />
-        <activity android:name=".DoctorList" />
-        <activity android:name=".PatientDashboard" />
-        <activity android:name=".Specialist" />
-        <activity android:name=".DoctorSchedule" />
-        <activity android:name=".MainActivity" />
-        <activity android:name=".UpdateProfile" />
+        <activity android:name="com.chanidu.edocter.UpdatePassword" />
+        <activity android:name="com.chanidu.edocter.MyAppointmentsDoctor" />
+        <activity android:name="com.chanidu.edocter.StartPage"/>
+        <activity android:name="com.chanidu.edocter.CreatePatient" />
+        <activity android:name="com.chanidu.edocter.VerifyOtpNewPassword" />
+        <activity android:name="com.chanidu.edocter.DoctorDetails" />
+        <activity android:name="com.chanidu.edocter.VerifyOtp" />
+        <activity android:name="com.chanidu.edocter.SendOtp" />
+        <activity android:name="com.chanidu.edocter.LoginPage" />
+        <activity android:name="com.chanidu.edocter.UpdateProfilePatient" />
+        <activity android:name="com.chanidu.edocter.ReSchedule" />
+        <activity android:name="com.chanidu.edocter.ActiveAppointments" />
+        <activity android:name="com.chanidu.edocter.Payment" />
+        <activity android:name="com.chanidu.edocter.BookAppointment" />
+        <activity android:name="com.chanidu.edocter.DoctorList" />
+        <activity android:name="com.chanidu.edocter.PatientDashboard" />
+        <activity android:name="com.chanidu.edocter.Specialist" />
+        <activity android:name="com.chanidu.edocter.DoctorSchedule" />
+        <activity android:name="com.chanidu.edocter.MainActivity" />
+        <activity android:name="com.chanidu.edocter.UpdateProfile" />
     </application>
 
 </manifest>
